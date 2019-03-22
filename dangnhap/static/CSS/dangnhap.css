@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+#content{
+	background-image: url(giaoan.link-hinh-nen-powerpoint-don-gian-dep-1.jpg);
+	width: 1600px;
+	height: 1000px;
+	padding-top: 100px;
+}
+
+.container{
+	width:500px;
+	height: 500px; 
+	margin: auto
+}
+
+.form-control{
+
+	width:100%;
+	margin: auto;
+	border: 1px solid #eee;
+	border-radius: 6px;
+	height: 35px;
+	color: #06B9B7;
+	margin: 5px;
+}
+
+#btn{
+	margin: auto;
+	width: 250px;
+
+}
+.btn{
+	background-color: #fff;
+	height: 35px;
+	width: 125px;
+	border: 1px solid #06B9B7;
+	border-radius: 5px;
+	color: #06B9B7;
+	float: left;
+}
+
+
+#nd{
+	width: 50%;
+	margin: auto;
+}
